@@ -1,0 +1,926 @@
+
+html,body{
+	width: 100%;
+	height: 100%;
+}
+
+.swiper-container{
+	height: 100%;
+}
+
+.swiper-wrapper{
+	background: #fff;
+}
+
+.swiper-slide{
+	
+}
+
+.sigle-page{
+	position: absolute;
+	height: 90%;
+	width: 100%;
+	top: 5%;
+	left: 0;
+	font-family: "黑体";
+}
+
+
+/*page-index start*/
+#page-index{
+	background: url(../img/page-index-bg.png);
+}
+
+.page-index-wrap-01{
+	position: absolute;
+	width:100%;height:42.06349206349206%;left:0%;top:57.936507936507944%;
+}
+
+.page-index-wrap-02{
+	position: absolute;
+	width:100%;height:38.69047619047619%;left:0%;top:61.30952380952381%;
+}
+
+.page-index-wrap-03{
+	position: absolute;
+	width:100%;height:37.202380952380956%;left:0%;top:62.797619047619044%;
+}
+
+.page-index-wrap-04{
+	position: absolute;
+	width:85.3125%;height:55.158730158730165%;left:7.34375%;top:7.638888888888889%;
+}
+
+.page-index-wrap-05{
+	position: absolute;
+	width:84.53125%;height:55.05952380952381%;left:7.8125%;top:7.440476190476191%;
+}
+
+.page-index-wrap-06{
+	position: absolute;
+	width:90.9375%;height:55.654761904761905%;left:3.90625%;top:8.234126984126984%;
+}
+
+.page-index-wrap-07{
+	position: absolute;
+	width:90.9375%;height:55.654761904761905%;left:3.90625%;top:8.234126984126984%;
+}
+
+.page-index-wrap-08{
+	position: absolute;
+	width:37.5%;height:23.809523809523807%;left:33.28125%;top:47.91666666666667%;
+}
+
+.page-index-wrap-09{
+	position: absolute;
+	width:32.8125%;height:20.833333333333336%;left:35.625%;top:49.404761904761905%;
+}
+
+.page-index-wrap-10{
+	position: absolute;
+	width:40.78125%;height:11.507936507936508%;left:15.156249999999998%;top:28.273809523809522%;
+}
+
+.page-index-wrap-11{
+	position: absolute;
+	width:36.875%;height:17.956349206349206%;left:56.40625%;top:24.305555555555554%;
+}
+
+.page-index-wrap-12{
+	position: absolute;
+	width:32.5%;height:5.357142857142857%;left:25.624999999999996%;top:21.924603174603174%;
+}
+
+.page-index-wrap-13{
+	position: absolute;
+	width:58.28124999999999%;height:2.876984126984127%;left:10%;top:40.476190476190474%;
+}
+
+.page-index-wrap-14{
+	position: absolute;
+	width:49.6875%;height:0.8928571428571428%;left:7.8125%;top:26.884920634920633%;
+}
+
+.page-index-wrap-15{
+	position: absolute;
+	width:30.46875%;height:6.746031746031746%;left:36.40625%;top:75.9920634920635%;
+}
+
+.page-index-wrap-16{
+	position: absolute;
+	width:71.09375%;height:4.9603174603174605%;left:15.625%;top:86.40873015873017%;
+}
+
+.page-index-wrap-17{
+	position: absolute;
+	width:56.25%;height:auto;left:21.875%;top:86.5%;
+}
+
+.page-index-info-17{
+	text-align: center;
+	color:#fff;
+	font-size:1rem;
+	font-family:黑体;
+	line-height:1.4rem;
+}
+
+
+/*page-index end*/
+
+/*page-01 start*/
+
+#page-01{
+	background: url(../img/page-01-bg.png) repeat;
+}
+
+.page-01-wrap-01{
+	position: absolute;
+	width:71.4%;
+	height:39.3%;
+	left:5.3%;
+	top:38.3%;
+}
+
+.page-01-wrap-01 img{
+	width: 100%;
+	height: 100%;
+	color:black;
+	border: none;
+	font-size:1rem;
+	opacity:1;
+}
+
+.page-01-wrap-02{
+	width:48.5%;
+	height:52.5%;
+	left:-1%;
+	top:-0.3%;
+	z-index:0;
+}
+
+.page-01-wrap-02 img{
+	width: 100%;
+	height: 100%;
+}
+
+.page-01-wrap-03{
+	position: absolute;
+	width:54%;
+	height:59.5%;
+	left:48.5%;
+	top:44%;
+}
+
+.page-01-wrap-03 img{
+	width: 100%;
+	height: 100%;
+}
+
+.page-01-wrap-04{
+	position: absolute;
+	width:44.5%;
+	height:48%;
+	left:0%;
+	top:0%;
+}
+
+.page-01-wrap-04 img{
+	width: 100%;
+	height: 100%;
+}
+
+
+.page-01-wrap-05{
+	position: absolute;
+	width:45%;
+	height:48.5%;
+	left:59%;
+	top:54%;
+}
+
+.page-01-wrap-05 img{
+	width: 100%;
+	height: 100%;
+}
+
+.page-01-wrap-06{
+	position: absolute;
+	width:25%;
+	height:1%;
+	left:65%;
+	top:6%
+}
+
+.page-01-wrap-06 img{
+	width: 100%;
+}
+
+.page-01-wrap-07{
+	position: absolute;
+	width:22.5%;
+	height:2.4%;
+	left:64.4%;
+	top:2.9%
+}
+
+.page-01-wrap-07 img{
+	width: 100%;
+}
+
+.page-01-wrap-08{
+	position: absolute;
+	width:45%;
+	height:0.2%;
+	left:55%;
+	top:9.2%;
+}
+
+.page-01-wrap-08 img{
+	width: 100%;
+}
+
+.page-01-wrap-09{
+	position: absolute;
+	width:67.8%;
+	height:25.6%;
+	left:7%;
+	top:45.4%;
+}
+
+.page-01-wrap-09 img{
+	width: 100%;
+}
+
+.page-01-wrap-10{
+	position: absolute;
+	width:33.6%;
+	height:18.5%;
+	left:63.3%;
+	top:75.4%;
+}
+
+.page-01-wrap-10 img{
+	width: 100%;
+}
+
+.page-01-wrap-11{
+	position: absolute;
+	width:21.8%;
+	height:11.8%;
+	left:12.5%;
+	top:84.6%;
+}
+
+.page-01-wrap-11 img{
+	width: 100%;
+}
+
+.page-01-wrap-12{
+	position: absolute;
+	width:5.5%;
+	height:3%;
+	left:90%;
+	top:52%;
+}
+
+.page-01-wrap-12 img{
+	width: 100%;
+}
+
+.page-01-wrap-13{
+	position: absolute;
+	width:13.3%;
+	height:7.3%;
+	left:3.0%;
+	top:76.8%;
+}
+
+.page-01-wrap-13 img{
+	width: 100%;
+}
+
+.page-01-wrap-14{
+	position: absolute;
+	width:77%;
+	height:42.4%;
+	left:2.5%;
+	top:37.1%;
+}
+
+.page-01-wrap-14 img{
+	width: 100%;
+}
+
+
+.page-01-wrap-15{
+	position: absolute;
+	width:22.5%;
+	height:12.4%;
+	left:72.6%;
+	top:37.1%;
+}
+
+.page-01-wrap-15 img{
+	width: 100%;
+}
+
+.page-01-wrap-16{
+	position: absolute;
+	width:10.6%;
+	height:5.8%;
+	left:52.6%;
+	top:2.5%;
+	/*animation: rotate2d 1s 3.5s infinite forwards;*/
+}
+
+/*@keyframes rotate2d{
+	from{}
+	to{transform: rotate(360deg);}
+}*/
+
+
+.page-01-wrap-16 img{
+	width: 100%;
+}
+
+.page-01-wrap-17{
+	position: absolute;
+	width:56.7%;
+	height:31.1%;
+	left:2.5%;
+	top:2.5%;
+}
+
+.page-01-wrap-17 img{
+	width: 100%;
+}
+
+
+.page-01-wrap-18{
+	position: absolute;
+	width:52.0%;
+	height:28.6%;
+	left:4.8%;
+	top:3.8%;
+}
+
+.page-01-wrap-18 img{
+	width: 100%;
+}
+
+.page-01-wrap-19{
+	position: absolute;
+	width:34.4%;
+	height:auto;
+	left:63.6%;
+	top:11.0%;
+}
+
+.page-01-wrap-19 .info{
+	color:#666666;
+	font-size:0.7rem;
+	font-family:黑体;
+	line-height:1.4rem;
+}
+
+.page-01-wrap-20{
+	position: absolute;
+	width:40.6%;
+	height:auto;
+	left:22%;
+	top:41.8%;
+	z-index: 20;
+}
+
+.page-01-wrap-20 .info{
+	color:#666666;
+	font-size:0.7rem;
+	font-family:黑体;
+	line-height:1.4rem;
+}
+
+.page-01-wrap-21{
+	position: absolute;
+	width:14.4%;
+	height:auto;left:77.9%;
+	top:38.9%;
+}
+
+.page-01-wrap-21 .info-21{
+	color:#fff;
+	font: bold 1rem/1.5rem "黑体";
+}
+
+.page-01-wrap-22{
+	position: absolute;
+	width:19%;
+	height:auto;
+	left:72%;
+	top:78%
+}
+
+.page-01-wrap-22 .info-22{
+	color:#fff;
+	font: bold 1.5rem/2rem "黑体";
+}
+
+.page-01-wrap-23{
+	position: absolute;
+	width:14.4%;
+	height:auto;
+	left:18%;
+	top:86%;
+}
+
+.page-01-wrap-23 .info-23{
+	color:#fff;
+	font: bold 1rem/1.5rem "黑体";
+}
+
+
+/*page-01 end*/
+
+img{
+	width: 100%;
+}
+/*page-02 start*/
+#page-02{
+	background: url(../img/page-02-bg.png) ;
+}
+
+.page-02-wrap-01{
+	position: absolute;
+	width:100%;
+	height:30.6%;
+	left:0%;
+	top:0%;
+}
+
+.page-02-wrap-02{
+	position: absolute;
+	width:85.3%;
+	height:55.3%;
+	left:11%;
+	top:-32.%;
+}
+
+.page-02-wrap-03{
+	position: absolute;
+	width:0.6%;
+	height:70.5%;
+	left:48.4%;
+	top:29.5%;
+}
+
+.page-02-wrap-04{
+	position: absolute;
+	width:4.8%;
+	height:3.1%;
+	left:46.4%;
+	top:33.6%;
+}
+
+.page-02-wrap-05{
+	position: absolute;
+	width:4.8%;
+	height:3.1%;
+	left:46.7%;
+	top:44.9%;
+}
+
+.page-02-wrap-06{
+	position: absolute;
+	width:39.5%;
+	height:1.1%;
+	left:7%;
+	top:34.7%;
+}
+
+
+.page-02-wrap-07{
+	position: absolute;
+	width:4.8%;
+	height:3.1%;
+	left:46.4%;
+	top:62.8%;
+}
+
+.page-02-wrap-08{
+	position: absolute;
+	width:39.5%;
+	height:1.1%;
+	left:7%;
+	top:63.9%;
+
+}
+
+.page-02-wrap-09{
+	position: absolute;
+	width:39.5%;
+	height:1.1%;
+	left:51.4%;
+	top:45.8%;
+
+}
+
+.page-02-wrap-10{
+	position: absolute;
+	width:35.625%;
+	height:12.003968253968255%;
+	left:15.625%;
+	top:9.027777777777777%;
+}
+
+
+.page-02-wrap-11{
+	position: absolute;
+	width:33.59375%;
+	height:2.1825396825396823%;
+	left:17.8125%;
+	top:4.9603174603174605%;
+}
+
+.page-02-wrap-12{
+	position: absolute;
+	width:49.6875%;height:0.8928571428571428%;left:1.09375%;top:7.837301587301587%;
+}
+
+.page-02-wrap-13{
+	position: absolute;
+	width:49.6875%;height:0.8928571428571428%;left:48.59375%;top:20.13888888888889%;
+}
+
+.page-02-wrap-14{
+	position: absolute;
+	width:35.625%;height:12.103174603174603%;left:48.59375%;top:6.4484126984126995%;
+}
+
+.page-02-wrap-15{
+	position: absolute;
+	width:44.6875%;height:auto;left:9.90625%;top:31.051587301587304%;
+}
+
+.page-02-info-15 div{
+	color: rgb(45, 116, 156); 
+	font-weight: bold; 
+	font-size: 0.7rem;
+}
+
+.page-02-wrap-16{
+	position: absolute;
+	width:41.875%;height:auto;left:6.5625%;top:36.607142857142854%;z-index:0;
+}
+
+.page-02-info-16{
+	color: rgb(45, 116, 156); 
+	font-size: 0.7rem;
+	line-height: 1.5rem;
+}
+
+.page-02-wrap-17{
+	position: absolute;
+	width:44.6875%;height:auto;left:53%;top:42.16269841269841%;
+}
+
+.page-02-info-17{
+	color: rgb(146, 0, 196);
+	font-weight: 700; 
+	font-size: 0.7rem;
+}
+
+.page-02-wrap-18{
+	position: absolute;
+	width:41.875%;height:auto;left:51.09375000000001%;top:47.91666666666667%;
+}
+
+.page-02-info-18{
+	color: rgb(160, 6, 255); 
+	font-size: 0.7rem;
+}
+
+
+/*page-02 end*/
+
+/*page-03 start*/
+
+#page-03{
+	background: url(../img/page-01-bg.png);
+}
+
+
+.page-03-wrap-01{
+	position: absolute;
+	width:97.34375%;height:77.08333333333334%;left:-28.59375%;
+}
+
+.page-03-wrap-02{
+	position: absolute;
+	width:63.4375%;height:50.198412698412696%;left:40.15625%;top:72.32142857142857%;
+}
+
+.page-03-wrap-03{
+	position: absolute;
+	width:76.40625%;height:42.06349206349206%;left:12.34375%;top:4.861111111111112%;
+}
+
+.page-03-wrap-04{
+	position: absolute;
+	width:64.6875%;height:39.58333333333333%;left:18.28125%;top:4.265873015873016%;
+}
+
+.page-03-wrap-05{
+	position: absolute;
+	width:66.71875%;height:40.57539682539682%;left:17.65625%;top:7.837301587301587%;
+}
+
+.page-03-wrap-06{
+	position: absolute;
+	width:39.21875%;height:21.52777777777778%;left:30.78125%;top:50.49603174603175%;
+}
+
+.page-03-wrap-07{
+	position: absolute;
+	width:25%;height:13.88888888888889%;left:9.21875%;top:43.35317460317461%;
+}
+
+.page-03-wrap-08{
+	position: absolute;
+	width:25%;height:13.88888888888889%;left:67.1875%;top:43.35317460317461%;
+}
+
+.page-03-wrap-09{
+	position: absolute;
+	width:25%;height:13.88888888888889%;left:67.1875%;top:65.37698412698413%;
+}
+
+.page-03-wrap-10{
+	position: absolute;
+	width:25%;height:13.88888888888889%;left:9.21875%;top:65.37698412698413%;
+}
+
+.page-03-wrap-11{
+	position: absolute;
+	width:25%;height:13.789682539682541%;left:38.28125%;top:33.33333333333333%;
+}
+
+.page-03-wrap-12{
+	position: absolute;
+	width:25%;height:13.789682539682541%;left:38.28125%;top:75.49603174603175%;
+}
+
+.page-03-wrap-13{
+	position: absolute;
+	width:26.25%;height:9.126984126984127%;left:32.8125%;top:13.194444444444445%;
+}
+
+.page-03-wrap-14{
+	position: absolute;
+	width:26.718750000000004%;height:9.126984126984127%;left:54.84375%;top:19.1468253968254%;
+}
+
+.page-03-wrap-15{
+	position: absolute;
+	width:36.09375%;height:3.373015873015873%;left:18.28125%;top:24.107142857142858%;
+}
+
+.page-03-wrap-16{
+	position: absolute;
+	width:40.625%;height:auto;left:30.46875%;top:55.25793650793651%;
+}
+
+.page-03-info-16{
+	text-align: center;
+	color: rgb(255, 255, 255); 
+	font-size: 1.5rem;
+	line-height: 2rem;
+	font-family: "黑体";
+}
+
+.page-03-wrap-17{
+	position: absolute;
+	width:40.625%;height:auto;left:31.25%;top:35.51587301587302%;
+}
+
+.page-03-info-17{
+	text-align: center;
+	color: rgb(255, 255, 255); 
+	font-size: 0.8rem;
+	line-height: 1.4rem;
+	font-family: "黑体";
+}
+
+.page-03-wrap-18{
+	position: absolute;
+	width:40.625%;height:auto;left:30.46875%;top:78.47222222222221%;
+}
+
+.page-03-wrap-19{
+	position: absolute;
+	width:30.9375%;height:auto;left:6.09375%;top:46.52777777777778%;
+}
+
+.page-03-wrap-20{
+	position: absolute;
+	width:30.9375%;height:auto;left:64.21875%;top:69.14682539682539%;
+}
+
+.page-03-wrap-21{
+	position: absolute;
+	width:30.9375%;height:auto;left:64.21875%;top:46.82539682539682%;
+}
+
+.page-03-wrap-22{
+	position: absolute;
+	width:30.9375%;height:auto;left:6.25%;top:69.14682539682539%;
+}
+
+/*page-03 end*/
+
+/*page-04 start*/
+
+#page-03{
+	background: url(../img/page-01-bg.png);
+}
+
+.page-04-wrap-16{
+	position: absolute;
+	width:30.46875%;height:22.321428571428573%;left:28.749999999999996%;top:31.448412698412696%;
+}
+
+.page-04-wrap-17{
+	position: absolute;
+	width:26.25%;height:19.1468253968254%;left:15.625%;top:41.17063492063492%;
+}
+
+.page-04-wrap-18{
+	position: absolute;
+	width:32.34375%;height:23.71031746031746%;left:57.65625%;top:37.10317460317461%;
+}
+
+.page-04-wrap-19{
+	position: absolute;
+	width:43.75%;height:32.0436507936508%;left:31.71875%;top:49.007936507936506%;
+}
+
+.page-04-wrap-20{
+	position: absolute;
+	width:32.03125%;height:23.41269841269841%;left:13.750000000000002%;top:53.769841269841265%;
+}
+
+.page-04-wrap-21{
+	position: absolute;
+	width:58.59375%;height:4.464285714285714%;left:12.65625%;top:82.44047619047619%;
+}
+
+.page-04-wrap-22{
+	position: absolute;
+	width:46.5625%;height:3.1746031746031744%;left:36.09375%;top:88.19444444444444%;
+}
+
+
+.page-04-wrap-23{
+	position: absolute;
+	width:16.09375%;height:11.805555555555555%;left:64.53125%;top:67.26190476190477%;
+}
+
+.page-04-wrap-24{
+	position: absolute;
+	width:25.624999999999996%;height:auto;left:44.0625%;top:55.45634920634921%;
+}
+
+.page-04-info-24{
+	text-align: center;
+	color: #fff;
+	font-size: 1.4rem;
+	line-height: 1.6rem;
+	font-family: "黑体";
+}
+
+.page-04-wrap-25{
+	position: absolute;
+	width:23.4375%;height:auto;left:32.34375%;top:34.42460317460318%;
+}
+
+.page-04-info-25{
+	text-align: center;
+	color: #fff;
+	font-size: 1rem;
+	line-height: 1.2rem;
+	font-family: "黑体";
+}
+
+.page-04-wrap-26{
+	position: absolute;
+	width:23.4375%;height:auto;left:61.875%;top:40.67460317460318%;
+}
+
+.page-04-wrap-27{
+	position: absolute;
+	width:23.4375%;height:auto;left:18.4375%;top:57.44047619047619%;
+}
+
+.page-04-wrap-28{
+	position: absolute;
+	width:20.9375%;height:auto;left:62.03125000000001%;top:69.34523809523809%;
+}
+
+.page-04-wrap-29{
+	position: absolute;
+	width:23.4375%;height:auto;left:17.03125%;top:43.452380952380956%;
+}
+
+.page-04-wrap-30{
+	position: absolute;
+	width:55.93749999999999%;height:auto;left:15.78125%;top:82.8%;
+}
+
+/*page-04 end*/
+
+/*page-05 start*/
+#page-05{
+	background: url(../img/page-05-bg.png) no-repeat 0 -140%,url(../img/page-02-bg.png);
+}
+
+.page-05-wrap-16{
+	position: absolute;
+	width:75%;height:auto;left:13.750000000000002%;top:40%;
+	padding: 1%;
+	background-color:rgba(0, 0, 0,0.4);
+	border-radius:4px;
+}
+
+.page-05-info-16{
+	text-align: left;
+	text-indent: 10px;
+	color: #fff;
+	font-size: 1.2rem;
+	line-height: 2rem;
+	font-family: "黑体";
+}
+
+.page-05-info-16 .weixin{
+
+	text-align: center;
+}
+.page-05-info-16 .weixin p{
+	padding: 0;margin: 0;
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
