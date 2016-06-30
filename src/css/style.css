@@ -4,9 +4,30 @@ html,body{
 	height: 100%;
 }
 
-.swiper-container{
-	height: 100%;
+img{
+	width: 100%;
 }
+
+@media screen and (max-width: 450px) {
+	
+	.swiper-container{
+		width: 100%;
+		height: 100%;
+	}
+}
+
+@media screen and (min-width: 450px) {
+	html,body{
+		font-size: 22px;
+	}
+	.swiper-container{
+		width: 450px;
+		margin: 0 auto;
+		height: 900px;
+		font-size: 16px;
+	}
+}
+
 
 .swiper-wrapper{
 	background: #fff;
@@ -141,14 +162,14 @@ html,body{
 	top:38.3%;
 }
 
-.page-01-wrap-01 img{
+/*.page-01-wrap-01 img{
 	width: 100%;
 	height: 100%;
 	color:black;
 	border: none;
 	font-size:1rem;
 	opacity:1;
-}
+}*/
 
 .page-01-wrap-02{
 	width:48.5%;
@@ -158,10 +179,12 @@ html,body{
 	z-index:0;
 }
 
-.page-01-wrap-02 img{
+/*.page-01-wrap-02 img{
 	width: 100%;
 	height: 100%;
-}
+}*/
+
+
 
 .page-01-wrap-03{
 	position: absolute;
@@ -171,10 +194,7 @@ html,body{
 	top:44%;
 }
 
-.page-01-wrap-03 img{
-	width: 100%;
-	height: 100%;
-}
+
 
 .page-01-wrap-04{
 	position: absolute;
@@ -184,10 +204,7 @@ html,body{
 	top:0%;
 }
 
-.page-01-wrap-04 img{
-	width: 100%;
-	height: 100%;
-}
+
 
 
 .page-01-wrap-05{
@@ -198,10 +215,7 @@ html,body{
 	top:54%;
 }
 
-.page-01-wrap-05 img{
-	width: 100%;
-	height: 100%;
-}
+
 
 .page-01-wrap-06{
 	position: absolute;
@@ -211,9 +225,7 @@ html,body{
 	top:6%
 }
 
-.page-01-wrap-06 img{
-	width: 100%;
-}
+
 
 .page-01-wrap-07{
 	position: absolute;
@@ -223,9 +235,7 @@ html,body{
 	top:2.9%
 }
 
-.page-01-wrap-07 img{
-	width: 100%;
-}
+
 
 .page-01-wrap-08{
 	position: absolute;
@@ -235,9 +245,7 @@ html,body{
 	top:9.2%;
 }
 
-.page-01-wrap-08 img{
-	width: 100%;
-}
+
 
 .page-01-wrap-09{
 	position: absolute;
@@ -247,9 +255,7 @@ html,body{
 	top:45.4%;
 }
 
-.page-01-wrap-09 img{
-	width: 100%;
-}
+
 
 .page-01-wrap-10{
 	position: absolute;
@@ -259,9 +265,7 @@ html,body{
 	top:75.4%;
 }
 
-.page-01-wrap-10 img{
-	width: 100%;
-}
+
 
 .page-01-wrap-11{
 	position: absolute;
@@ -271,9 +275,7 @@ html,body{
 	top:84.6%;
 }
 
-.page-01-wrap-11 img{
-	width: 100%;
-}
+
 
 .page-01-wrap-12{
 	position: absolute;
@@ -283,9 +285,7 @@ html,body{
 	top:52%;
 }
 
-.page-01-wrap-12 img{
-	width: 100%;
-}
+
 
 .page-01-wrap-13{
 	position: absolute;
@@ -295,9 +295,7 @@ html,body{
 	top:76.8%;
 }
 
-.page-01-wrap-13 img{
-	width: 100%;
-}
+
 
 .page-01-wrap-14{
 	position: absolute;
@@ -307,9 +305,7 @@ html,body{
 	top:37.1%;
 }
 
-.page-01-wrap-14 img{
-	width: 100%;
-}
+
 
 
 .page-01-wrap-15{
@@ -320,9 +316,7 @@ html,body{
 	top:37.1%;
 }
 
-.page-01-wrap-15 img{
-	width: 100%;
-}
+
 
 .page-01-wrap-16{
 	position: absolute;
@@ -339,9 +333,7 @@ html,body{
 }*/
 
 
-.page-01-wrap-16 img{
-	width: 100%;
-}
+
 
 .page-01-wrap-17{
 	position: absolute;
@@ -351,9 +343,7 @@ html,body{
 	top:2.5%;
 }
 
-.page-01-wrap-17 img{
-	width: 100%;
-}
+
 
 
 .page-01-wrap-18{
@@ -364,9 +354,7 @@ html,body{
 	top:3.8%;
 }
 
-.page-01-wrap-18 img{
-	width: 100%;
-}
+
 
 .page-01-wrap-19{
 	position: absolute;
@@ -440,9 +428,7 @@ html,body{
 
 /*page-01 end*/
 
-img{
-	width: 100%;
-}
+
 /*page-02 start*/
 #page-02{
 	background: url(../img/page-02-bg.png) ;
