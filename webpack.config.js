@@ -34,11 +34,11 @@ module.exports  =  {
            	  loader : "html"
            },
            {
-           	//匹配图片
-           	  test : /.(png|gif|jpg)/,
+           	//匹配图片,匹配字体，字体css样式写法照常
+           	  test : /.(png|gif|jpg|eot|svg|ttf|woff)/,
            	  //最终图片会被打包到images目录下
            	  //name=images/[name].[ext]"
-           	  loader : "file-loader?name=images/[name].[ext]"
+           	  loader : "file-loader?name=[path]/[name].[ext]"
            }
 		]
 	}
